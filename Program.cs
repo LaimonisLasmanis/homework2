@@ -133,7 +133,7 @@ Console.WriteLine($"Liels Paldies Par uzmanību , uz drīzu tikšanos, Ar cieņu
 
 
 Console.WriteLine();
-Console.WriteLine("=========================================");
+Console.WriteLine("==========================================");
 Console.WriteLine();
 
 
